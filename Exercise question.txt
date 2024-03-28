@@ -1,0 +1,16 @@
+Q1=Write a program that check the  given 
+number is positive or negative.
+Q2=Write a program that checks if a number is even or odd.
+Q3=Write a program to determine the greater of two numbers.
+Q4=Create a program to check a student grade and percentage.
+Q5=Write a program that greets the user based on the time of day. Display good morning, good afternnon or good evening based 
+on the time of day when you run the code.
+Q6=Write a program that calculates the Body Mass Index (BMI) and 
+categorizes it.
+Q7=Write a simple number guessing game. Provide a select number and a guess. Based on those numbers give players clues 
+if their guess is higher, lower or correct. 
+Q8= write a simple calculate.
+1.Add
+2.Sub
+3.mul
+4.div
